@@ -1,4 +1,4 @@
-# ICE_Videogames 🎮🕹️
+# ICE Store Videogames 🎮🕹️
 
 I work for the online store Ice, which sells video games worldwide. User and expert reviews, genres, platforms (e.g., Xbox or PlayStation), and historical data on game sales are available from open sources.
 
